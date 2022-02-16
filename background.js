@@ -8,6 +8,10 @@ const filter = {
     '*://twitter.com/*',
     '*://www.facebook.com/*',
     '*://www.reddit.com/*',
+    '*://www.youtube.com/*',
+    '*://www.youtube.com/watch/*',
+    '*://www.youtube.com/watch',
+    'YouTube.com/*',
   ],
 };
 
